@@ -43,99 +43,19 @@ just someone who likes the part where the loss curve finally goes down.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-
 <br>
-
-### ` things i've built `
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Project One](https://github.com/yourusername/project-one)**
-
-One sharp sentence on what it does and why it's not just another
-notebook — the result, the impact, the number.
-
-`Python` `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Two](https://github.com/yourusername/project-two)**
-
-Same energy — what problem, what model, what happened when it
-hit real data.
-
-`FastAPI` `scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Project Three](https://github.com/yourusername/project-three)**
-
-A dataset you wrangled, a pipeline you built, a dashboard someone
-actually uses.
-
-`SQL` `Tableau`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Four](https://github.com/yourusername/project-four)**
-
-The side project that taught you the most, even if it never
-shipped.
-
-`Airflow` `AWS`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### ` numbers, if you're into that `
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=2F80ED&icon_color=2F80ED&text_color=888&ring_color=2F80ED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=00000000&title_color=2F80ED&text_color=888&langs_count=8" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=00000000&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=888&currStreakNum=888&sideNums=888&dates=888" alt="streak stats" />
-</p>
-
-<br>
-
-### ` contribution graph `
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=00000000&color=2F80ED&line=2F80ED&point=ffffff" alt="activity graph" />
-</p>
-
-<br>
-
 ### ` find me `
 
 <p align="left">
